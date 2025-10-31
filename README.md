@@ -33,7 +33,6 @@
 - 📊 **Pitch Deck:** [View Presentation](https://drive.google.com/file/d/1mikt8zzKWkUFWmjvDq16Jj3YPhaiwKdx/view?usp=sharing)
 - 🎓 **Hedera Certification (Founder):** [View Certificate](https://certs.hashgraphdev.com/d82d268b-7995-4141-a447-06b80db4c620.pdf)
 - 🎓 **Hedera Certification (Co-Founder):** [View Certificate](https://certs.hashgraphdev.com/d0018e3c-d7ab-4660-8f78-3cf7dbccac76.pdf)
-)
 - 🎬 **Video Demo:** [Watch on YouTube](https://youtu.be/17FGRoCFmRQ)
 
 **100+ live blockchain transactions on Hedera Testnet - Full setup in 10 minutes!**
