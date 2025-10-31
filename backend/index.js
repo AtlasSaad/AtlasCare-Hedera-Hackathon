@@ -131,7 +131,9 @@ function loadCnopsCatalog() {
 
 loadCnopsCatalog();
 
-// Mock user authentication
+// Mock user authentication (DEMO ONLY - Replace with real authentication in production)
+// WARNING: These are demo credentials for hackathon demonstration only
+// In production, implement proper password hashing and secure authentication
 const users = [
   { id: 1, username: 'mohamedrami.doctor@atlascare.health', password: 'Doctor#2024', role: 'doctor', fullName: 'Mohamed Rami', specialty: 'Specialist in Internal Medicine' },
   { id: 2, username: 'hassanalami.pharma@atlascare.health', password: 'Pharma#2024', role: 'pharmacist', fullName: 'Hassan Alami' },
