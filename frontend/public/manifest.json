@@ -1,0 +1,12 @@
+{
+  "name": "AtlasCare MVP",
+  "short_name": "AtlasCare",
+  "description": "AtlasCare - Health Transaction Protocol (Morocco) MVP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#0ea5e9",
+  "lang": "en",
+  "scope": "/",
+  "icons": []
+}

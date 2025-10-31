@@ -1,0 +1,5541 @@
+{
+  "entries": [
+    [
+      "0.0.7154037",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Hypertension arterielle essentielle (HTA) - Stade II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le matin"
+            },
+            {
+              "name": "ENALAPRIL /HCTZ GT",
+              "code": "ENALAPRIL10",
+              "dosage": "10",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le soir"
+            }
+          ],
+          "id": "119dc79b-4f80-45db-a561-d826f00f6175",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761695756392"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-28T23:55:59.584Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154037",
+          "timestamp": "2025-10-28T23:55:58.794Z",
+          "validFrom": "2025-10-28T23:55:58.794Z",
+          "validUntil": "2025-12-27T23:55:58.794Z",
+          "geoTag": "31.69069111058174,-8.070724645098865",
+          "hashedPatientId": "0411cf872ceb62dda3118250ad06763c0dfdd7357925339f3060ca5f8be432dc",
+          "nftSerial": "1761695756392",
+          "drugIds": [
+            "6118010120817",
+            "ENALAPRIL10"
+          ],
+          "instructionsList": [
+            "1 comprimé le matin",
+            "1 comprimé le soir"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 8,
+          "nonce": "6c1771dd6fa152d5",
+          "contentHash": "sha256:f2fef214ecb50bc4a92218372195d79d4de4aee6081e1becbed2756cce973eb2",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100b52a4d94ea5130c76c5b2c14c1310aa1eb46006b89a59311a9926b69e0782c3102202a309b634c02f42a5ee5794ba0e9916b1ed5ab9fd74d28dde0561cf47ac57f0b"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "ENALAPRIL10"
+          ],
+          "instructionsList": [
+            "1 comprimé le matin",
+            "1 comprimé le soir"
+          ],
+          "nftSerial": "1761695756392",
+          "preciseGeoTag": "31.69069111058174,-8.070724645098865",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le matin"
+            },
+            {
+              "name": "ENALAPRIL /HCTZ GT",
+              "code": "ENALAPRIL10",
+              "dosage": "10",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le soir"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "ENALAPRIL10",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 43,
+            "coveredMAD": 30.1,
+            "patientMAD": 12.9
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7154499",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Hypertension arterielle essentielle (HTA) - Stade II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le matin"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le soir"
+            }
+          ],
+          "id": "d2565ea0-c51c-4b78-a0e8-65fdf311d006",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761705707240"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T02:41:51.077Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154499",
+          "timestamp": "2025-10-29T02:41:50.157Z",
+          "validFrom": "2025-10-29T02:41:50.157Z",
+          "validUntil": "2025-12-28T02:41:50.157Z",
+          "geoTag": "31.690691121236814,-8.070724673385069",
+          "hashedPatientId": "06188e3b385674d8bc31ac6100efa493ed11f6bbf95d1fccf5f2b35c84a8381e",
+          "nftSerial": "1761705707240",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 comprimé le matin",
+            "1 comprimé le soir"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 1,
+          "nonce": "7044db323a584385",
+          "contentHash": "sha256:d8797dbaa30c6c5cedb22bbe8142e9fb9b599fc9cc70a07d0e3a8e408b810a88",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:304402206b13a3c1634869c3e380a4d8eb58ccc76b34dfb6bab7ca2c50331a3d88fd5be702201047eceb6c124dd67008868bbd1c2b0220805d4a2986de6ce3953ebb4fc5d978"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 comprimé le matin",
+            "1 comprimé le soir"
+          ],
+          "nftSerial": "1761705707240",
+          "preciseGeoTag": "31.690691121236814,-8.070724673385069",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le matin"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le soir"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7154564",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "saadhassim96@gmail.com",
+          "patientPhone": "+212717287335",
+          "contactMethod": "sms",
+          "age": "28",
+          "diagnosis": "Hypertension arterielle essentielle (HTA) - Stade II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le matin"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le soir"
+            }
+          ],
+          "id": "f0a03cb1-01c8-4cb8-a661-82b0be507485",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761707694073"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T03:14:58.524Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154564",
+          "timestamp": "2025-10-29T03:14:56.710Z",
+          "validFrom": "2025-10-29T03:14:56.710Z",
+          "validUntil": "2025-12-28T03:14:56.710Z",
+          "geoTag": "31.69064180843938,-8.07055322996944",
+          "hashedPatientId": "d7e373dec0a3090496fefb760503dea1f172f8bed3de0075df2c71f7eb26a69b",
+          "nftSerial": "1761707694073",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 comprimé le matin",
+            "1 comprimé le soir"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 1,
+          "nonce": "2f0ca61b2237fbb9",
+          "contentHash": "sha256:ac24a8dde2991c7a357c21e9a546c0e5068bec465a7511b9745bfaee8ca4abfc",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:304402207c17e6fe8c943ac2e791f77226fa85ea01bfbe19b1d6d929bf1ab0901458655102205cd07e5c1486cfb089a05420eed8e75138ce086da5e355e8df1ae9434f685b0f"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 comprimé le matin",
+            "1 comprimé le soir"
+          ],
+          "nftSerial": "1761707694073",
+          "preciseGeoTag": "31.69064180843938,-8.07055322996944",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le matin"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le soir"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7154584",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Hypertension arterielle essentielle (HTA) - Stade II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le matin"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le soir"
+            }
+          ],
+          "id": "8e4a278b-9cb9-402c-bedc-a2295ceafc96",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761708455530"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T03:27:38.311Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154584",
+          "timestamp": "2025-10-29T03:27:37.469Z",
+          "validFrom": "2025-10-29T03:27:37.469Z",
+          "validUntil": "2025-12-28T03:27:37.469Z",
+          "geoTag": "31.69077290551739,-8.070797889876593",
+          "hashedPatientId": "95167d19dd9d2fe9d4669ffeb9972cc4a94b1b964cb387de518aa4c7d8169472",
+          "nftSerial": "1761708455530",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 comprimé le matin",
+            "1 comprimé le soir"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 0,
+          "nonce": "fda180ba1cc96b79",
+          "contentHash": "sha256:b066ee09cf19caa1745ac196ffc7b59c77698b10c8ddf4d2dd17c3012bbd6332",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:304502210086b0169435b9795c509be810d3fd42da4d432a37d14ba6857d7d327619c60d2202204516852c2e3746cc12126d0cea7280da9e4e0104eacbb394579c5be61161fb40"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 comprimé le matin",
+            "1 comprimé le soir"
+          ],
+          "nftSerial": "1761708455530",
+          "preciseGeoTag": "31.69077290551739,-8.070797889876593",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le matin"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le soir"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ],
+    [
+      "0.0.7154602",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ],
+          "id": "d8e5c02f-6a82-4f4b-a233-9005815c132c",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761709186106"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T03:39:50.460Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154602",
+          "timestamp": "2025-10-29T03:39:50.185Z",
+          "validFrom": "2025-10-29T03:39:50.185Z",
+          "validUntil": "2025-12-28T03:39:50.185Z",
+          "geoTag": "31.690772982961978,-8.070797908506892",
+          "hashedPatientId": "d870062e63865de0a43d42a0edc23f83976616d748b8f87300ffba13d29e8c18",
+          "nftSerial": "1761709186106",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 0,
+          "nonce": "0b1d67d86bd24e98",
+          "contentHash": "sha256:8467602588a3080a93cc0a5743c9ef089878af7546f5334a20411108e4c1ec11",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100a3bfb7fc7acc2334c9e48b34ae37178b3b8e0f37673b3439a6e037da7fea220a022047c3ee605e9cc957342171a25df90b8e085a0d9127f0286ce166989929b296f3"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "nftSerial": "1761709186106",
+          "preciseGeoTag": "31.690772982961978,-8.070797908506892",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ],
+    [
+      "0.0.7154604",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ],
+          "id": "01c2ee45-6789-4dc6-b6ad-d7a7448f563e",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761709229539"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T03:40:31.978Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154604",
+          "timestamp": "2025-10-29T03:40:31.790Z",
+          "validFrom": "2025-10-29T03:40:31.790Z",
+          "validUntil": "2025-12-28T03:40:31.790Z",
+          "geoTag": "31.690773410119178,-8.070798090232088",
+          "hashedPatientId": "f93b61ca649aa78b0151e1745270d2a616f332987b1ae727ab73ba24d4cefbe7",
+          "nftSerial": "1761709229539",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 0,
+          "nonce": "2967d68fb508ecd9",
+          "contentHash": "sha256:084a040c5fa0044e72177bd7e426a1f39a37e36c4cce4c8ec74c9e870318bfdb",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:30450221008a012afbd0e76f50103dc4a947688895105a5b6f065716a143325b7f616492dd022060471511fac85427e0ce4789d38b9bef330101477ad22dceb0bfe32f6c0f7b49"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "nftSerial": "1761709229539",
+          "preciseGeoTag": "31.690773410119178,-8.070798090232088",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ],
+    [
+      "0.0.7154615",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ],
+          "id": "01d83b7d-1d27-4076-aa03-5e519b1ec95a",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761709344332"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T03:42:28.372Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154615",
+          "timestamp": "2025-10-29T03:42:28.098Z",
+          "validFrom": "2025-10-29T03:42:28.098Z",
+          "validUntil": "2025-12-28T03:42:28.098Z",
+          "geoTag": "31.690773006947577,-8.070797918701338",
+          "hashedPatientId": "8e84bb301ee9f41d755c58d0c8a9008ca7d8f90d912a73f3c14ae8896b705035",
+          "nftSerial": "1761709344332",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 0,
+          "nonce": "aff8ab4ae0bc8119",
+          "contentHash": "sha256:fd4c95bae821d6e1183effe94fb39e338fa797042f333aba1a5033b57d42ba4e",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3044022062cae20d263acccec462b906bbb2d243854058151ded512ac47ab1135b36cafe0220214168195cac4541278d942557660d0081db55750385f51b7348695063df4993"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "nftSerial": "1761709344332",
+          "preciseGeoTag": "31.690773006947577,-8.070797918701338",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ],
+    [
+      "0.0.7154626",
+      {
+        "prescription": {
+          "patientId": "K987649",
+          "patientName": "hassan tair",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ],
+          "id": "7c7cadc0-a418-4e13-b259-ba240a678ab3",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761709732298"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T03:48:55.559Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154626",
+          "timestamp": "2025-10-29T03:48:55.313Z",
+          "validFrom": "2025-10-29T03:48:55.313Z",
+          "validUntil": "2025-12-28T03:48:55.313Z",
+          "geoTag": "31.690773006947577,-8.070797918701338",
+          "hashedPatientId": "b56cb52d542b2264d860400fdea74ab18ad1cc917709ddf8e2a99da9eb8231b3",
+          "nftSerial": "1761709732298",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 0,
+          "nonce": "46f53a36f39eb344",
+          "contentHash": "sha256:0c7707583f6622739cb2b32b0da42eabe22dae5986ccf93dc1a851de1c4c2a78",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:30440220799f99adfdac6ee1377f61f41b7df5c147e02bb2eabe3126a5fa3516124a76f802204d2ca013482a93083fe79d8b3f3977ad82cebde7d928f5def9a5d33e2686c578"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "nftSerial": "1761709732298",
+          "preciseGeoTag": "31.690773006947577,-8.070797918701338",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ],
+    [
+      "0.0.7154629",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Hypertension arterielle essentielle (HTA) - Stade II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le matin"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le soir"
+            }
+          ],
+          "id": "af4d9286-963e-4f5a-b038-2e26ea48d245",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761709860464"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T03:51:02.878Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154629",
+          "timestamp": "2025-10-29T03:51:02.691Z",
+          "validFrom": "2025-10-29T03:51:02.691Z",
+          "validUntil": "2025-12-28T03:51:02.691Z",
+          "geoTag": "31.690773010155333,-8.070797920066092",
+          "hashedPatientId": "26c29013aa3a6800e05467cdd6de6bcecc9329b66bf617d32cce55101f88bfd6",
+          "nftSerial": "1761709860464",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 comprimé le matin",
+            "1 comprimé le soir"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 1,
+          "nonce": "2b2245689a4043cc",
+          "contentHash": "sha256:e9c9996dd2a1c450a228f873c920a62aa4306fc383ce43f08ab853e02830ab59",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3044022074059c675d2e4af6a116546138939bef9faf4539116753e9a43e254dca53e1e0022026981043ec3207fa315356b8af044ec943d6e53c7b26a5708bbf691f43622e47"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 comprimé le matin",
+            "1 comprimé le soir"
+          ],
+          "nftSerial": "1761709860464",
+          "preciseGeoTag": "31.690773010155333,-8.070797920066092",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le matin"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le soir"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "paid"
+      }
+    ],
+    [
+      "0.0.7154637",
+      {
+        "prescription": {
+          "patientId": "L980807",
+          "patientName": "safaa ritchane",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ],
+          "id": "b97a75ac-6d6a-43b1-b059-8213fdb306f8",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761710051963"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T03:54:14.969Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154637",
+          "timestamp": "2025-10-29T03:54:14.809Z",
+          "validFrom": "2025-10-29T03:54:14.809Z",
+          "validUntil": "2025-12-28T03:54:14.809Z",
+          "geoTag": "31.690773010155333,-8.070797920066092",
+          "hashedPatientId": "54f991f9890eef29cb8ec6bc64d6007716bacd07d68ba4d0bc60307c5c5f1037",
+          "nftSerial": "1761710051963",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 1,
+          "nonce": "46f0f13fca9fe2bc",
+          "contentHash": "sha256:da021d46ee5fdd47338ec8311b92ff5f19ce077a34f1a6e6f0a0d108225a664c",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:304402203e75c89b1d741bc45e97e393b6fe0c9f568373a60c141ed5cca0d12c648776ea02200e630c22eb1b525766219dead15bd2619f1896baead68f496bee147154633ec3"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "nftSerial": "1761710051963",
+          "preciseGeoTag": "31.690773010155333,-8.070797920066092",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118000160212",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000040972",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 130.25,
+            "coveredMAD": 91.17,
+            "patientMAD": 39.08
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7154641",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ],
+          "id": "9083fa64-f55a-4ce8-8e39-c7a27e20ebcd",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761710214732"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T03:56:57.613Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154641",
+          "timestamp": "2025-10-29T03:56:57.383Z",
+          "validFrom": "2025-10-29T03:56:57.383Z",
+          "validUntil": "2025-12-28T03:56:57.383Z",
+          "geoTag": "31.6907730099966,-8.070797919998558",
+          "hashedPatientId": "076869d0e7065f630709d16f6a7ef6557f855e55e33f468e4a28a6f50e06665d",
+          "nftSerial": "1761710214732",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 1,
+          "nonce": "a5c5fa47a9f03d97",
+          "contentHash": "sha256:e1ccb34c062929f68c107e580d782a34bf1fb15a2108940d6bc4c6641bb020ca",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:304402203a1ba30e4a22d761fb506d5e562954742af481e91be995ed4bbe0c302966b3cf0220146d9a6c0c4b154d8bb4a150c90023ab279ef5951591e1de7044426214183143"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "nftSerial": "1761710214732",
+          "preciseGeoTag": "31.6907730099966,-8.070797919998558",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118000160212",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000040972",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 130.25,
+            "coveredMAD": 91.17,
+            "patientMAD": 39.08
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7154649",
+      {
+        "prescription": {
+          "patientId": "P098776",
+          "patientName": "safaa ritchane",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Hypertension arterielle essentielle (HTA) - Stade II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le matin"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le soir"
+            }
+          ],
+          "id": "1b814e21-1ba6-4923-b36d-8f399c31961b",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761710426075"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T04:00:28.750Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154649",
+          "timestamp": "2025-10-29T04:00:28.551Z",
+          "validFrom": "2025-10-29T04:00:28.551Z",
+          "validUntil": "2025-12-28T04:00:28.551Z",
+          "geoTag": "31.690734392083606,-8.070682720427552",
+          "hashedPatientId": "1e1d3db715fdc14fff9cb0461840ae61a67a7247c966e7ed3124f80768aa43ff",
+          "nftSerial": "1761710426075",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 comprimé le matin",
+            "1 comprimé le soir"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 2,
+          "nonce": "78baf09ef0b4bcaf",
+          "contentHash": "sha256:f9e9dd37db15bc89f38f43c3647013955249a47bc69d0629a28eddc51e1b5a45",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3044022051e68b86d412f9b45c916bb71c8a651614c9ee2b65112f7011117d8afb15704102203af76ec572df20fd0d1ae683817f77e4793259cd94938c49c82c632e5d009cec",
+          "lastDispenseDate": "2025-10-29T16:03:41.114Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 comprimé le matin",
+            "1 comprimé le soir"
+          ],
+          "nftSerial": "1761710426075",
+          "preciseGeoTag": "31.690734392083606,-8.070682720427552",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le matin"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le soir"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7154658",
+      {
+        "prescription": {
+          "patientId": "m561419",
+          "patientName": "saad atlas",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Diabète de type 2 non insulinodépendant",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "GLUCOPHAGE 850",
+              "code": "6118000080633",
+              "dosage": "850",
+              "unit": "mg",
+              "frequency": "2",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé matin et soir pendant les repas"
+            },
+            {
+              "name": "GLEMA",
+              "code": "6118000041207",
+              "dosage": "2",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le matin avant le petit-déjeuner"
+            }
+          ],
+          "id": "f248e489-99d7-4262-913c-dc2d181ac1ce",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761710635736"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T04:03:58.726Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154658",
+          "timestamp": "2025-10-29T04:03:58.579Z",
+          "validFrom": "2025-10-29T04:03:58.579Z",
+          "validUntil": "2025-12-28T04:03:58.579Z",
+          "geoTag": "31.690734392083606,-8.070682720427552",
+          "hashedPatientId": "fba35219c84f0d0778f79a817c1cb4034bef4d2c6a3b2ad2694a7a86d1571add",
+          "nftSerial": "1761710635736",
+          "drugIds": [
+            "6118000080633",
+            "6118000041207"
+          ],
+          "instructionsList": [
+            "1 comprimé matin et soir pendant les repas",
+            "1 comprimé le matin avant le petit-déjeuner"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 1,
+          "nonce": "98d8f52adecf6172",
+          "contentHash": "sha256:911a409635a6fc533ab42961b9aa3499916b527794c7d66923478bbd26c9748e",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100dc9ee92868f9d3e58ede03dedeff5a64ecfa267c1a61c0c4ecc1f88be09c82c102205ae83362cfd75ac3f6b8157717187621adee36798dcf6411cc2cd982a98b61f7"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000080633",
+            "6118000041207"
+          ],
+          "instructionsList": [
+            "1 comprimé matin et soir pendant les repas",
+            "1 comprimé le matin avant le petit-déjeuner"
+          ],
+          "nftSerial": "1761710635736",
+          "preciseGeoTag": "31.690734392083606,-8.070682720427552",
+          "medications": [
+            {
+              "name": "GLUCOPHAGE 850",
+              "code": "6118000080633",
+              "dosage": "850",
+              "unit": "mg",
+              "frequency": "2",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé matin et soir pendant les repas"
+            },
+            {
+              "name": "GLEMA",
+              "code": "6118000041207",
+              "dosage": "2",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 comprimé le matin avant le petit-déjeuner"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118000080633",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000041207",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 60.4,
+            "coveredMAD": 42.28,
+            "patientMAD": 18.12
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7154670",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "safaa ritchane",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "29",
+          "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ],
+          "id": "dcbeb53c-9972-4715-9b09-95bab7a561f7",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761710857516"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T04:07:40.541Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154670",
+          "timestamp": "2025-10-29T04:07:40.398Z",
+          "validFrom": "2025-10-29T04:07:40.398Z",
+          "validUntil": "2025-12-28T04:07:40.398Z",
+          "geoTag": "31.6907879554034,-8.0707196874223",
+          "hashedPatientId": "b9bc7b824b7d23a2f758d05f136cde6e81425f31c1824b917016571dea37a9a5",
+          "nftSerial": "1761710857516",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 1,
+          "nonce": "1d149e41a689d80b",
+          "contentHash": "sha256:22ab1c2d3eade3c56394a2565940588f38bbdf6fb0a75e88c326b95c10d06359",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:304402206cb46515622258ed64f17298cbcd073eb44d1b7e3c5e25b13c2f31cb08a0274202201d67976da2c7ec8f1a5875dc2cc7258c8dea88c49537fcc9c4905383b3093ae6"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "nftSerial": "1761710857516",
+          "preciseGeoTag": "31.6907879554034,-8.0707196874223",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118000160212",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000040972",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 130.25,
+            "coveredMAD": 91.17,
+            "patientMAD": 39.08
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7154678",
+      {
+        "prescription": {
+          "patientId": "m561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ],
+          "id": "c9c69dc3-194d-4288-8cdc-6e7000b08709",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761710959023"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T04:09:23.480Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154678",
+          "timestamp": "2025-10-29T04:09:22.644Z",
+          "validFrom": "2025-10-29T04:09:22.644Z",
+          "validUntil": "2025-12-28T04:09:22.644Z",
+          "geoTag": "31.6907730124518,-8.070797913758275",
+          "hashedPatientId": "6412c7357f519ca80ed750f17ae89d49e4264e99aabd8352b26fe2f6b6524c10",
+          "nftSerial": "1761710959023",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 1,
+          "nonce": "88ee42f07dec668f",
+          "contentHash": "sha256:8104d168cc6883df5fbcb52ec7bb92cd78c91fa0e026107b28cab9eb71e6097b",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100b2178623e1165eab288b1f7a84b593ef0c0c0f28de9f106d73d47641b38aa54602200d4b44e7c957432180dde446d33ba02ed964550d7f4ae7ad453432c0fb633bb4"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 comprimé 3 fois par jour pendant les repas",
+            "1 comprimé 3 fois par jour si douleur ou fièvre"
+          ],
+          "nftSerial": "1761710959023",
+          "preciseGeoTag": "31.6907730124518,-8.070797913758275",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour pendant les repas"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118000160212",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000040972",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 130.25,
+            "coveredMAD": 91.17,
+            "patientMAD": 39.08
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7154797",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "cfefd066-5989-4d27-b7eb-3034026acf8e",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761714513977"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T05:08:38.220Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7154797",
+          "timestamp": "2025-10-29T05:08:37.226Z",
+          "validFrom": "2025-10-29T05:08:37.226Z",
+          "validUntil": "2025-12-28T05:08:37.229Z",
+          "geoTag": "31.69078755067023,-8.070935209216447",
+          "hashedPatientId": "b8b47f4682db2078970ffd119ed5b5e4597a4c8d6e87295011c84dd02b8c9d05",
+          "nftSerial": "1761714513977",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 4,
+          "nonce": "cbd1fa98886d9c83",
+          "contentHash": "sha256:5519bee346bf8203f5787cf9bb34034b6a2107c86a1ebde507eb1cfa9c78e84f",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100daebada60932d1ce10a75fe80bab399e7cce9b7b5241ed52bf34d062f35e1fb502201a19627125d9089c2d4d9a92f94f14b5bb4eca322055ca7f735cfe85fa7bf442",
+          "lastDispenseDate": "2025-10-29T05:16:25.146Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761714513977",
+          "preciseGeoTag": "31.69078755067023,-8.070935209216447",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "paid"
+      }
+    ],
+    [
+      "0.0.7157091",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "id": "d8fe11ff-25bb-4979-89d7-727542899b56",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761748659216"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T14:37:42.398Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7157091",
+          "timestamp": "2025-10-29T14:37:41.794Z",
+          "validFrom": "2025-10-29T14:37:41.794Z",
+          "validUntil": "2025-12-28T14:37:41.794Z",
+          "geoTag": "31.690734391208743,-8.070682717164006",
+          "hashedPatientId": "8b62001f4608d01f9567875b4a9ee29df52ea8e0311442e8ecee7f1d38e43d6a",
+          "nftSerial": "1761748659216",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 1,
+          "nonce": "6d98b8cf3b715a5f",
+          "contentHash": "sha256:cced79dd44fdedffe80058294c034a232af3b19dd3eebb439cb33889a5f40757",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:304402206077f4bb62a123036e5fc827fa112fe1e5520ae1448c5f98360bf5fa6856d444022016c132de3cac4ba389cbe0d0e3cefdb758517d65144695117bfdab9ea3226977",
+          "lastDispenseDate": "2025-10-29T14:39:08.391Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "nftSerial": "1761748659216",
+          "preciseGeoTag": "31.690734391208743,-8.070682717164006",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118000160212",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000040972",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 130.25,
+            "coveredMAD": 91.17,
+            "patientMAD": 39.08
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "paid"
+      }
+    ],
+    [
+      "0.0.7157179",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "id": "8896f98d-756a-46bf-98b0-3ad6738d224f",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761749565805"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T14:52:48.232Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7157179",
+          "timestamp": "2025-10-29T14:52:47.850Z",
+          "validFrom": "2025-10-29T14:52:47.850Z",
+          "validUntil": "2025-12-28T14:52:47.850Z",
+          "geoTag": "31.69069138100541,-8.070668411029299",
+          "hashedPatientId": "b9608bcb03a60aaf28b7284cec587a8af714349a493907b6554d9274f3c9e172",
+          "nftSerial": "1761749565805",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 1,
+          "nonce": "8f4b91a8309b476f",
+          "contentHash": "sha256:9def8d49abc7c0051eac8894ac63c13718978033c22766036c9f85bab511141a",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3044022053200e7c9d081995eba86f5877722923c36d7fa4d9c525635c476b304447a031022006fb733573132bb53ca1da9a8ab94625e4265c2249d82e1dc475f586316f0c8c",
+          "lastDispenseDate": "2025-10-29T14:54:55.054Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "nftSerial": "1761749565805",
+          "preciseGeoTag": "31.69069138100541,-8.070668411029299",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118000160212",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000040972",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 130.25,
+            "coveredMAD": 91.17,
+            "patientMAD": 39.08
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "paid"
+      }
+    ],
+    [
+      "0.0.7157208",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "883a686e-33c2-4609-ab73-9d013080b8b7",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761749851378"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T14:57:33.901Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7157208",
+          "timestamp": "2025-10-29T14:57:33.453Z",
+          "validFrom": "2025-10-29T14:57:33.453Z",
+          "validUntil": "2025-12-28T14:57:33.453Z",
+          "geoTag": "31.690734392028762,-8.07068271755161",
+          "hashedPatientId": "44481e8a2261db67049ee1add5c2b0bd8b5b726d653394d2e31ea4bad5562e34",
+          "nftSerial": "1761749851378",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 4,
+          "nonce": "67a1ca42792e83a0",
+          "contentHash": "sha256:6df14964316362cc5ea237467ca16f4b4b74b8831c23cfb4cc049dd14d95d86b",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3044022060a1a852f2f95c5f0bb9ae246be76248a7c50b16640b8832daaa4719159fe10e02206ae5993eb865c03ac3cb888e82f087419e5c494bf4ff87a9b235c7a81efd491a",
+          "lastDispenseDate": "2025-10-29T14:59:37.730Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761749851378",
+          "preciseGeoTag": "31.690734392028762,-8.07068271755161",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "paid"
+      }
+    ],
+    [
+      "0.0.7158668",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "4b936286-24d6-4a2e-b389-27569166187e",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761774732730"
+          },
+          "doctor": "Mohamed Rami",
+          "date": "2025-10-29T21:52:16.942Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7158668",
+          "timestamp": "2025-10-29T21:52:15.594Z",
+          "validFrom": "2025-10-29T21:52:15.594Z",
+          "validUntil": "2025-12-28T21:52:15.594Z",
+          "geoTag": "31.690670110848043,-8.07056982038328",
+          "hashedPatientId": "3612b7ca1ba54487a3e822b8a261c9a69f2411ad0af92925663ff09420176b9c",
+          "nftSerial": "1761774732730",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 4,
+          "nonce": "a6ef6bc6e4f67893",
+          "contentHash": "sha256:001f9d6c8f45999d92e2e4ab6e5b5cc672057e68cb825ff8e9e0d4003b17220e",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:30440220459ffbb0ea92e066a3445872e1d9175e53e031b24306a0d1363b5e243e4863d80220745bed8f85b97e06810ed52e606c780f5df79b78e4df1d70f965acc313d84d40",
+          "lastDispenseDate": "2025-10-29T22:31:56.755Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761774732730",
+          "preciseGeoTag": "31.690670110848043,-8.07056982038328",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7158736",
+      {
+        "prescription": {
+          "patientId": "m561419",
+          "patientName": "saad atlas",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Type 2 Diabetes - Non-insulin dependent",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "GLUCOPHAGE 850",
+              "code": "6118000080633",
+              "dosage": "850",
+              "unit": "mg",
+              "frequency": "2",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet morning and evening with meals"
+            },
+            {
+              "name": "GLEMA",
+              "code": "6118000041207",
+              "dosage": "2",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning before breakfast"
+            }
+          ],
+          "id": "94227d83-5773-4045-bbcb-3770a25679bd",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761777200296"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-29T22:33:23.864Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7158736",
+          "timestamp": "2025-10-29T22:33:22.394Z",
+          "validFrom": "2025-10-29T22:33:22.394Z",
+          "validUntil": "2025-12-28T22:33:22.394Z",
+          "geoTag": "31.690787953817264,-8.070719686914405",
+          "hashedPatientId": "6aef40fb7dbf7a1f9d60295684a55159974264247acdb46a65dcbe0fe8b5bcdb",
+          "nftSerial": "1761777200296",
+          "drugIds": [
+            "6118000080633",
+            "6118000041207"
+          ],
+          "instructionsList": [
+            "1 tablet morning and evening with meals",
+            "1 tablet in the morning before breakfast"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 1,
+          "nonce": "750e48697f577134",
+          "contentHash": "sha256:2fac944c30a53034cf6ba193ada7b61ad5458088f5fffb758a343baa81366cad",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100ef8f0af89a6a73c3f582d4c6c2d87223ed29d91c953ba01c72b7961a66efa238022001776c7bdd877518136fd725eb2c43db629ead398d898e1d137743bd7b59b5e0",
+          "lastDispenseDate": "2025-10-29T22:34:13.379Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000080633",
+            "6118000041207"
+          ],
+          "instructionsList": [
+            "1 tablet morning and evening with meals",
+            "1 tablet in the morning before breakfast"
+          ],
+          "nftSerial": "1761777200296",
+          "preciseGeoTag": "31.690787953817264,-8.070719686914405",
+          "medications": [
+            {
+              "name": "GLUCOPHAGE 850",
+              "code": "6118000080633",
+              "dosage": "850",
+              "unit": "mg",
+              "frequency": "2",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet morning and evening with meals"
+            },
+            {
+              "name": "GLEMA",
+              "code": "6118000041207",
+              "dosage": "2",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning before breakfast"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118000080633",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000041207",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 60.4,
+            "coveredMAD": 42.28,
+            "patientMAD": 18.12
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7163547",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "id": "55e5705e-4965-41ef-8572-d8964388a712",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761858287642"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-30T21:04:50.414Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7163547",
+          "timestamp": "2025-10-30T21:04:49.782Z",
+          "validFrom": "2025-10-30T21:04:49.782Z",
+          "validUntil": "2025-12-29T21:04:49.782Z",
+          "geoTag": "31.690787954917933,-8.070719694379536",
+          "hashedPatientId": "3141d96df3eb90ab5db742b3e7308227a19ccce7cf8b7e53258f426eef54b92b",
+          "nftSerial": "1761858287642",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 1,
+          "nonce": "6d78ef9ea21bfb7a",
+          "contentHash": "sha256:af07051ad18423329a871d31406544852c71160c450c320e372c4d3e7df6eafc",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3044022051b7fb6573c2dddacbf686abb7445aabf65c611957c6f2e78e70f7c137ea6eaf022052bc48f95fab99cc83ded23b25ab4da9ce7e7cc21ccf7908753a75a65f14129f",
+          "lastDispenseDate": "2025-10-30T21:07:18.968Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "nftSerial": "1761858287642",
+          "preciseGeoTag": "31.690787954917933,-8.070719694379536",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118000160212",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000040972",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 130.25,
+            "coveredMAD": 91.17,
+            "patientMAD": 39.08
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7163562",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "id": "89402578-63a5-40b4-ad85-136a79be8bd6",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761858500211"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-30T21:08:22.544Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7163562",
+          "timestamp": "2025-10-30T21:08:22.329Z",
+          "validFrom": "2025-10-30T21:08:22.329Z",
+          "validUntil": "2025-12-29T21:08:22.329Z",
+          "geoTag": "31.690787959397802,-8.070719689102427",
+          "hashedPatientId": "d01a42bfa659c3a256f47c0351f53d498135a1115eb40412638b19dceffed278",
+          "nftSerial": "1761858500211",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 1,
+          "nonce": "44561e10be51b2e0",
+          "contentHash": "sha256:c298a8f295dda025705a535c63b57e7ea5d69aceb4c6cb48f4718b1c3c70b804",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:304502210093e2a7d53df8cd7d00345b1af6d7195c4c58049c416d96fcb577e49ebbb55d290220016afd0bed78906eacabcf6e76b92fd6b4607946fa1f3b25a3b193b9f4bc310f",
+          "lastDispenseDate": "2025-10-30T21:10:26.959Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "nftSerial": "1761858500211",
+          "preciseGeoTag": "31.690787959397802,-8.070719689102427",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118000160212",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000040972",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 130.25,
+            "coveredMAD": 91.17,
+            "patientMAD": 39.08
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7164457",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "658911fe-a147-4bfe-a552-1ac1bdd27684",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761862508251"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-30T22:15:10.982Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7164457",
+          "timestamp": "2025-10-30T22:15:10.444Z",
+          "validFrom": "2025-10-30T22:15:10.444Z",
+          "validUntil": "2025-12-29T22:15:10.444Z",
+          "geoTag": "31.69076103143731,-8.070730442422793",
+          "hashedPatientId": "35b68e1c6ead23f89561744076d2ec8ca7b739fa142354e253329f554e5f1110",
+          "nftSerial": "1761862508251",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 1,
+          "nonce": "362955dc7bbdbd32",
+          "contentHash": "sha256:a214877f48de5b5a95749da0f2c7e45bbed166e0fdc05cb1885fe5d46a878b35",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100c0014acde056f4891e627c85a0188e55c728ff8db12dad81d757dab4aeaacd5902205a570c14e61026d8d4f1eb238f23f8102b865c33b6d22dfd8b9c73ff5c1b8b2b",
+          "lastDispenseDate": "2025-10-30T22:16:20.165Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761862508251",
+          "preciseGeoTag": "31.69076103143731,-8.070730442422793",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7165029",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "id": "4d2b81aa-137f-4eda-9036-fd4558ce6b51",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761866560454"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-30T23:22:44.168Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165029",
+          "timestamp": "2025-10-30T23:22:42.880Z",
+          "validFrom": "2025-10-30T23:22:42.880Z",
+          "validUntil": "2025-12-29T23:22:42.880Z",
+          "geoTag": "31.690776456531097,-8.070721045093942",
+          "hashedPatientId": "8b7d4d0137e69fb50aaba5ed758b559196f20f554b9ff3b4a8acdb03f5a046b5",
+          "nftSerial": "1761866560454",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 0,
+          "nonce": "f5b8116e760869a0",
+          "contentHash": "sha256:c397c01dc15580ab4f02e75aeb97a090f132bf51f3f927e38ed9717cf517bfef",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100a722f9a82666a1a374ae715ed312b699068dc71b0544c2d80fda0cfc6d7e4e09022003df5b57360e6ca9fb2f3cb16b7650957a5343c03a10eb7a800a08ba247bd427"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "nftSerial": "1761866560454",
+          "preciseGeoTag": "31.690776456531097,-8.070721045093942",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ],
+    [
+      "0.0.7165047",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "a190b081-17c7-4130-8901-dbc8b26b385b",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761866801092"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-30T23:26:44.912Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165047",
+          "timestamp": "2025-10-30T23:26:44.129Z",
+          "validFrom": "2025-10-30T23:26:44.129Z",
+          "validUntil": "2025-12-29T23:26:44.129Z",
+          "geoTag": "31.690787961856753,-8.07071969057566",
+          "hashedPatientId": "ff58682a3417921886ecf2d1083fde64a5bf8b9383403ec6247843460fbe9f25",
+          "nftSerial": "1761866801092",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 0,
+          "nonce": "ffa323af93be0e34",
+          "contentHash": "sha256:daafa4095b90ad8d89b31ac5d1f5d79f1bb5bb1dee5536163403c5a05fa86aad",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100a7068e6f6faf1d3aa886a5366d11680ee7dd69fe3f277b05e218934dfbf2b112022059a902f7eb58d77fbbc32b04123ad7fc8445ffd6506c33d3423804355ba1b7d2"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761866801092",
+          "preciseGeoTag": "31.690787961856753,-8.07071969057566",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ],
+    [
+      "0.0.7165597",
+      {
+        "prescription": {
+          "patientId": "L561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "id": "2a245b97-e797-40e2-b5b2-4b7f0e46bd06",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761877455695"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T02:24:22.558Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165597",
+          "timestamp": "2025-10-31T02:24:19.394Z",
+          "validFrom": "2025-10-31T02:24:19.394Z",
+          "validUntil": "2025-12-30T02:24:19.394Z",
+          "geoTag": "31.69076974675635,-8.07073771436944",
+          "hashedPatientId": "373584505ff2a25c21e0b7fbb211ed512f16c3069706c7c66109ed46970f5255",
+          "nftSerial": "1761877455695",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 1,
+          "nonce": "8d764e638c207847",
+          "contentHash": "sha256:8018e56515f599d1828f4b624f3bd5f8d039eddcfb6e2a2a53c1e76a7bc7ca48",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100822b0bfd4e390d4e88de6fa3f5b147a08cd07130721c857c4aa263fdd37d98b6022074e9fc3de94952cfc0db17c8e8286938307ce87295a8ce1f83129684c5dbed52",
+          "lastDispenseDate": "2025-10-31T02:26:54.325Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "nftSerial": "1761877455695",
+          "preciseGeoTag": "31.69076974675635,-8.07073771436944",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118000160212",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000040972",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 130.25,
+            "coveredMAD": 91.17,
+            "patientMAD": 39.08
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7165694",
+      {
+        "prescription": {
+          "patientId": "L561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "29",
+          "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "id": "593d31cf-af14-4a30-b142-a92f7274e183",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761880644581"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T03:17:30.008Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165694",
+          "timestamp": "2025-10-31T03:17:28.805Z",
+          "validFrom": "2025-10-31T03:17:28.805Z",
+          "validUntil": "2025-12-30T03:17:28.805Z",
+          "geoTag": "31.69068305366763,-8.07063338579733",
+          "hashedPatientId": "2f3ca5e0b461c10df2609bca0149aee35f6116ab20e5cc4352331198ef5d062f",
+          "nftSerial": "1761880644581",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 1,
+          "nonce": "95b75b6da57ad85a",
+          "contentHash": "sha256:fc7f26abae48481fc7b13bd7159f361042d37b2f6cce9000dec44059280fbb8b",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:304502210087d0034e1cf737f228034f57cf350c6f2891de4120eaf580db0698a3cb56502402201d949e0baa0cf29239285584cf6abf1996044f092f731512ee912e03d41007d2",
+          "lastDispenseDate": "2025-10-31T03:19:12.839Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "nftSerial": "1761880644581",
+          "preciseGeoTag": "31.69068305366763,-8.07063338579733",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118000160212",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000040972",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 130.25,
+            "coveredMAD": 91.17,
+            "patientMAD": 39.08
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7165768",
+      {
+        "prescription": {
+          "patientId": "L561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "id": "3b7a68e5-7a97-4afe-b0be-d57af4065e2c",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761882772522"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T03:52:56.614Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165768",
+          "timestamp": "2025-10-31T03:52:55.389Z",
+          "validFrom": "2025-10-31T03:52:55.389Z",
+          "validUntil": "2025-12-30T03:52:55.389Z",
+          "geoTag": "31.69073439094853,-8.070682716365424",
+          "hashedPatientId": "983f6ef6d7015197c7d712b2f53f0305a80331805412b02c17ed979c5571cb31",
+          "nftSerial": "1761882772522",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 0,
+          "nonce": "5e70912a1e369c49",
+          "contentHash": "sha256:7de60c85e2a48b7cff1dbf0c25c5ad53c619130a2d09412fef032e6bb4108e8a",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:304502210083246aec088c9a7dcf6df4a26fb29c9f171fd4984bbfe92609b7f569eabb284c02204dcadc63ceb00a2c0eb155cdb6297521d8f60d6eace72f23558ad409c8218613"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "nftSerial": "1761882772522",
+          "preciseGeoTag": "31.69073439094853,-8.070682716365424",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ],
+    [
+      "0.0.7165795",
+      {
+        "prescription": {
+          "patientId": "L561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "29",
+          "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "id": "e28a50d8-5d0e-4b13-87ee-ab7dcb0c20a0",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761883136223"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T03:59:00.376Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165795",
+          "timestamp": "2025-10-31T03:58:59.138Z",
+          "validFrom": "2025-10-31T03:58:59.138Z",
+          "validUntil": "2025-12-30T03:58:59.138Z",
+          "geoTag": "31.690787956550768,-8.070719688716665",
+          "hashedPatientId": "db8250c686f77f654635184d5ed222e0a1b91578a40df5165bb1396bc2de6424",
+          "nftSerial": "1761883136223",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 0,
+          "nonce": "ee24676591813368",
+          "contentHash": "sha256:241ca461611822a3ea4d0c5ec54156c49078ea2845e8604ba4ba239a7c00c44b",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:304402203a77088395e5002607940f7794393a41850b0095a63a2ed27d0a8c97f0b40c9d022027a20b0c9691878573a5d3045a9fb2d552ea524c43d9cf5539947d378a77d9f1"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "nftSerial": "1761883136223",
+          "preciseGeoTag": "31.690787956550768,-8.070719688716665",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ],
+    [
+      "0.0.7165817",
+      {
+        "prescription": {
+          "patientId": "L561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "id": "d1abe7c1-f8e4-41b9-8fdd-4b688b27021b",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761883413416"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T04:03:36.868Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165817",
+          "timestamp": "2025-10-31T04:03:36.022Z",
+          "validFrom": "2025-10-31T04:03:36.022Z",
+          "validUntil": "2025-12-30T04:03:36.022Z",
+          "geoTag": "31.690734414162833,-8.070682733228876",
+          "hashedPatientId": "48f9e223ce153d30b4d55f89864e4ad613166be433f3f833431c67e8cc633528",
+          "nftSerial": "1761883413416",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 1,
+          "nonce": "9a07ac244063ee3d",
+          "contentHash": "sha256:6c3bbf1d5751988272fc2be7ffff60328406c875b0ad708a2f1efb8b41e182d5",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100db05c0bdb9d229dbe07ec5318d9f0b74dc49d0661ca98e1adbfc3ee44bf6c80602201b2ed3abb5189ce248b2b98bbd4ea8d85ae1de704f2a28e225c9107831daf0e8",
+          "lastDispenseDate": "2025-10-31T04:05:39.428Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "nftSerial": "1761883413416",
+          "preciseGeoTag": "31.690734414162833,-8.070682733228876",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118000160212",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000040972",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 130.25,
+            "coveredMAD": 91.17,
+            "patientMAD": 39.08
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7165838",
+      {
+        "prescription": {
+          "patientId": "L561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "29",
+          "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "id": "ed75806b-ad8d-44f7-9a03-b49da2ee0977",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761884129224"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T04:15:33.281Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165838",
+          "timestamp": "2025-10-31T04:15:32.178Z",
+          "validFrom": "2025-10-31T04:15:32.178Z",
+          "validUntil": "2025-12-30T04:15:32.178Z",
+          "geoTag": "31.69073438672533,-8.070682711798359",
+          "hashedPatientId": "98a093666103be24c73b20ee56311c324c4ca2c7ba2d0118c8e9ac547583dc59",
+          "nftSerial": "1761884129224",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 1,
+          "nonce": "1a2f6379dd24c950",
+          "contentHash": "sha256:c117a3598c060512bb751dc93a61a776b16e9e0b25f84758ac9afb9bb5ce54ad",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100fa98f9de3c300ed4e063ab3116465e8145c6cbf4f873af61f7abbab02096f6720220160f32dfc0d3e97216d90b5d9b2bc01d1420869a0c19c8bdcf44a77e92803ed7",
+          "lastDispenseDate": "2025-10-31T04:17:18.751Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "nftSerial": "1761884129224",
+          "preciseGeoTag": "31.69073438672533,-8.070682711798359",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118000160212",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000040972",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 130.25,
+            "coveredMAD": 91.17,
+            "patientMAD": 39.08
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7165848",
+      {
+        "prescription": {
+          "patientId": "L561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "29",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "7fb28c69-5e2c-4d55-ae8c-785ff5f263bf",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761884480509"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T04:21:23.929Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165848",
+          "timestamp": "2025-10-31T04:21:23.666Z",
+          "validFrom": "2025-10-31T04:21:23.666Z",
+          "validUntil": "2025-12-30T04:21:23.666Z",
+          "geoTag": "31.690624082254477,-8.07054226566946",
+          "hashedPatientId": "ee3b7680f6396661ab73916e462df19919baa26c5c76d1691956d4ba13bb80ec",
+          "nftSerial": "1761884480509",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 1,
+          "nonce": "41d5d9d6b286134c",
+          "contentHash": "sha256:c6180618184b397bc05c5f70d8a2952aaea76da2734e1899a9c0d8d73dc78098",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100b0d64fe94dac0dfec6c10b862cb39f5bbb00f2181077a9aeb28a5580077740790220704135aae74cb861c830d2c660b4a66af4191900ddf71d4c17e1392c0ca4431a",
+          "lastDispenseDate": "2025-10-31T04:26:59.354Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761884480509",
+          "preciseGeoTag": "31.690624082254477,-8.07054226566946",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7165856",
+      {
+        "prescription": {
+          "patientId": "m561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "29",
+          "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+          "maxDispenses": 1,
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ],
+          "id": "af09b647-d07d-4e77-b8d5-d4401169fd4a",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761884710854"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T04:25:14.381Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165856",
+          "timestamp": "2025-10-31T04:25:13.793Z",
+          "validFrom": "2025-10-31T04:25:13.793Z",
+          "validUntil": "2025-12-30T04:25:13.793Z",
+          "geoTag": "31.690624071779496,-8.070542254889258",
+          "hashedPatientId": "6cb2f77d4f10d9582aafe62f8e891e72717b391eb10a1ff004f6de311c5b84a1",
+          "nftSerial": "1761884710854",
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 1,
+          "dispenseCount": 0,
+          "nonce": "cfab5e1a9a5da830",
+          "contentHash": "sha256:5b9b92e5895613df07d229676dc526969d819500a0f913917f78ad1e82c4528b",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100bc4eb1e85acae29de47ed24f227a07c642e1042d5984a3eb8ff3a3e99a248d6d022012d559ce85a01c0205aa62fec8ae8f3a4d1209968f91d1afc1383ff3e02c0381"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000160212",
+            "6118000040972"
+          ],
+          "instructionsList": [
+            "1 tablet 3 times daily with meals",
+            "1 tablet 3 times daily for pain or fever"
+          ],
+          "nftSerial": "1761884710854",
+          "preciseGeoTag": "31.690624071779496,-8.070542254889258",
+          "medications": [
+            {
+              "name": "AUGMENTIN",
+              "code": "6118000160212",
+              "dosage": "500",
+              "unit": "mg",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily with meals"
+            },
+            {
+              "name": "DOLIPRANE",
+              "code": "6118000040972",
+              "dosage": "1",
+              "unit": "g",
+              "frequency": "3",
+              "duration": "7",
+              "durationUnit": "days",
+              "instructions": "1 tablet 3 times daily for pain or fever"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ],
+    [
+      "0.0.7165864",
+      {
+        "prescription": {
+          "patientId": "m561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "29",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "ce79d8cc-76e3-4aae-9d25-3ef0cdaada69",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761885086835"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T04:31:30.922Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165864",
+          "timestamp": "2025-10-31T04:31:29.675Z",
+          "validFrom": "2025-10-31T04:31:29.675Z",
+          "validUntil": "2025-12-30T04:31:29.675Z",
+          "geoTag": "31.6907879562445,-8.070719690488867",
+          "hashedPatientId": "d69e7b801567d15199acfa09f0206e5b96fbb5f58b8d0dcd3be34389a9870b2c",
+          "nftSerial": "1761885086835",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 2,
+          "nonce": "eed015c440f20bfb",
+          "contentHash": "sha256:a5e7689ebbb9fa0ebc9e22c64b47eff81c43ad3f728df8c48c53b0cade101834",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:304502210088afd47447e6de24f0f2898b0efe1cc3b322e0c201047355945b78193b5d478a022029bef0746dd09d69cfcea93e9587bc83dea198ea8b886c192bace678960bec26",
+          "lastDispenseDate": "2025-10-31T04:48:30.705Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761885086835",
+          "preciseGeoTag": "31.6907879562445,-8.070719690488867",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7165929",
+      {
+        "prescription": {
+          "patientId": "L561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "29",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "bc324aaa-1eec-4709-a2ea-c6becbe99c49",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761886004599"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T04:46:47.670Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165929",
+          "timestamp": "2025-10-31T04:46:46.815Z",
+          "validFrom": "2025-10-31T04:46:46.815Z",
+          "validUntil": "2025-12-30T04:46:46.815Z",
+          "geoTag": null,
+          "hashedPatientId": "64c95ddd7c9fa65dd1cbb03dd8c4196c40bb1d36f2aa6b5f279a5de3836133f5",
+          "nftSerial": "1761886004599",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 0,
+          "nonce": "47b86f57f9fb6235",
+          "contentHash": "sha256:35fc6d58fd7a7e72ec435d228b8afd02e79eca09efd92b6bb02c699632d91645",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100fced728cf31b8591fd0efe1d2bfa61ce9a21be6b39665ec72357528de5287540022039e61045c9229d4cc016180a4230f696ff61c7b4bba766ba95ab2a06af6daac0"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761886004599",
+          "preciseGeoTag": null,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ]
+        },
+        "status": "unknown"
+      }
+    ],
+    [
+      "0.0.7165940",
+      {
+        "prescription": {
+          "patientId": "m561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "d49d51ff-8d3c-4953-9357-c4eb78d6ade0",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761886548142"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T04:55:50.847Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165940",
+          "timestamp": "2025-10-31T04:55:50.272Z",
+          "validFrom": "2025-10-31T04:55:50.272Z",
+          "validUntil": "2025-12-30T04:55:50.272Z",
+          "geoTag": "31.69077302488693,-8.070797959228642",
+          "hashedPatientId": "6a7b1d15f146bc361f92d5b7aad6ec8a20f867ed980d75a70dfe344eaeb5bbbf",
+          "nftSerial": "1761886548142",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 1,
+          "nonce": "45f41a2de1d891f1",
+          "contentHash": "sha256:8287a09ca44b04dd828945520d3e9c4948218714b8f1ff149ba2ba0a5a4184e6",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100e2ce339be117de53eb27292fee4f4b811c62ad5fdcd7ef1ed4558fe8e5a18fc402200ba21dd6320f782df7fcfefe5d55c06b20de0348aa464f51eecd145e50d04d55",
+          "lastDispenseDate": "2025-10-31T04:57:04.580Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761886548142",
+          "preciseGeoTag": "31.69077302488693,-8.070797959228642",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7165945",
+      {
+        "prescription": {
+          "patientId": "L561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "29",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "e4d2a926-5117-4a3c-97e4-eb19340775f8",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761886959152"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T05:02:44.260Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165945",
+          "timestamp": "2025-10-31T05:02:43.494Z",
+          "validFrom": "2025-10-31T05:02:43.494Z",
+          "validUntil": "2025-12-30T05:02:43.494Z",
+          "geoTag": "31.69078795755704,-8.070719694965874",
+          "hashedPatientId": "099ecb4ec8329fc8a7e8a29add88c0d31c494fd323f2e55e9171b37ec012bfe6",
+          "nftSerial": "1761886959152",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 1,
+          "nonce": "1b56bbcd4c7ae7dc",
+          "contentHash": "sha256:40332f667a3530304d7f65abf09307c456467ee333462e0bab377b4af3b2f728",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:304402205ecb16e9197d723a1aaccdf0a7e8af59bf401eeeb2715fe77067856acc3c37c90220708b7cee3824448c3e811626dd4828b04e11a4e3dfd7ed27f33413ff7661d253",
+          "lastDispenseDate": "2025-10-31T05:04:20.113Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761886959152",
+          "preciseGeoTag": "31.69078795755704,-8.070719694965874",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7165951",
+      {
+        "prescription": {
+          "patientId": "L561419",
+          "patientName": "saad atlas",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "29",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "fc90e4c1-0d28-48ac-bc29-7225077662c6",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761887336340"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T05:08:59.562Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165951",
+          "timestamp": "2025-10-31T05:08:58.847Z",
+          "validFrom": "2025-10-31T05:08:58.847Z",
+          "validUntil": "2025-12-30T05:08:58.847Z",
+          "geoTag": "31.690787958633223,-8.070719689655045",
+          "hashedPatientId": "7301d5ac43606f1ba09150d02ace6fac90ed835e83ef8c29a16d154145d50627",
+          "nftSerial": "1761887336340",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 1,
+          "nonce": "d3845cd82375eb4b",
+          "contentHash": "sha256:680fc91639940298c7af69af69311f2311e48f2f9294f08219fbe430fa5cfceb",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:30450221009cab81aab426d48324877c7d4d0650b69def16b1465cc19c113690dc4ad381ba02206faa5f1a8e73409ae623a4d896c63d08832d7b59d66998d78142ecabb93683a4",
+          "lastDispenseDate": "2025-10-31T05:10:21.532Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761887336340",
+          "preciseGeoTag": "31.690787958633223,-8.070719689655045",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7165959",
+      {
+        "prescription": {
+          "patientId": "m561419",
+          "patientName": "saad atlas",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "29",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "822533aa-9215-46c9-b5b7-4e78d0b7b189",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761888022374"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T05:20:26.783Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165959",
+          "timestamp": "2025-10-31T05:20:25.753Z",
+          "validFrom": "2025-10-31T05:20:25.753Z",
+          "validUntil": "2025-12-30T05:20:25.753Z",
+          "geoTag": "31.69073439034837,-8.070682716758162",
+          "hashedPatientId": "f0958f7dd8967433313faade9f6564ef3e77b70a0938d68b6d323fbb7f47eb2c",
+          "nftSerial": "1761888022374",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 2,
+          "nonce": "31604551ed6d825b",
+          "contentHash": "sha256:d12a675f6d9e2a40dd15f541dfd1fd3a81b294ad11f566a6af1685a12befdae8",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:30440220586a725088eb2e195c5df5496f679a450dd641cdafc12310e7d2b7cdfb20c39b02207e04bf1ceaa3026f462ac85b2a01a3f204c45d3d4ff75a6df1a5de4570559c74",
+          "lastDispenseDate": "2025-10-31T05:31:09.660Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761888022374",
+          "preciseGeoTag": "31.69073439034837,-8.070682716758162",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7165978",
+      {
+        "prescription": {
+          "patientId": "L561419",
+          "patientName": "saad atlas",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "29",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "389c0aee-a943-4ee4-88c9-23eb7a864a83",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761888564109"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T05:29:27.150Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7165978",
+          "timestamp": "2025-10-31T05:29:26.150Z",
+          "validFrom": "2025-10-31T05:29:26.150Z",
+          "validUntil": "2025-12-30T05:29:26.150Z",
+          "geoTag": "31.690734391033775,-8.070682717256178",
+          "hashedPatientId": "bcaeded6117e2d0fd969a4690d1c9e468b30da1aa5373ff087a6bbf61bce19c5",
+          "nftSerial": "1761888564109",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 0,
+          "nonce": "0c8bf785ccf67989",
+          "contentHash": "sha256:998e6adeab02075633378b370d91ae40100f89d68b54169595353ef7820d3e91",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3044022001c73d8bdc09127815371087ac53d99b98d0a3172c5fda10b7a72cb519e0e5250220229501b1ef4a9ad6d7f8721290e78d70ca49889c0078a33084bb08cc1ff4d2de"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761888564109",
+          "preciseGeoTag": "31.690734391033775,-8.070682717256178",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ],
+    [
+      "0.0.7166062",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "safaa ritchane",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "29",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "2ae20b0e-2654-4276-9b1f-648d1941d921",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761889872479"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T05:51:17.746Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7166062",
+          "timestamp": "2025-10-31T05:51:16.277Z",
+          "validFrom": "2025-10-31T05:51:16.277Z",
+          "validUntil": "2025-12-30T05:51:16.277Z",
+          "geoTag": "31.690670100548406,-8.070569726459647",
+          "hashedPatientId": "7cc000032790f2ecfe30ca53e0f40c9b4561b62dee3b80c124ff5cdef7f19090",
+          "nftSerial": "1761889872479",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 0,
+          "nonce": "3b2290a05ce72c63",
+          "contentHash": "sha256:c29d43ad82aecd1e9612b3714735f9a99cbc7939f590fe03c36f553f2e3ef191",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:304502210093f7294ef42e7efd81667dd6f8fcb56e489c14833e224b388c413f439b42611902205b493ca79e7182b5725b51d3a236c0d90a6111fd2b385f81faafaf8941530dd3"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761889872479",
+          "preciseGeoTag": "31.690670100548406,-8.070569726459647",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ],
+    [
+      "0.0.7166084",
+      {
+        "prescription": {
+          "patientId": "M561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "d37233aa-9ed0-48f9-92b2-5c7f4ecd4fdf",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761890108503"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T05:55:12.813Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7166084",
+          "timestamp": "2025-10-31T05:55:12.149Z",
+          "validFrom": "2025-10-31T05:55:12.149Z",
+          "validUntil": "2025-12-30T05:55:12.149Z",
+          "geoTag": "31.69073438744525,-8.07068271096755",
+          "hashedPatientId": "97e562a82f1415cbb336415ad75adaed13b408beb2eb4815fc2f100f5eabe9f2",
+          "nftSerial": "1761890108503",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 3,
+          "nonce": "4b51115a87aeaf87",
+          "contentHash": "sha256:70bf60292c19c424eafa49ea82b3c739febcff1c42431cd6e98e12ddd2b9704b",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:30440220059ded23d0cd6bb826ccdd0401792abc4e5952f7d06830159ede990e58b5a28b02206568e28c81d9d4b36bdadf28de481327caf9ca3b2304ad1f1e033be9b891395c",
+          "lastDispenseDate": "2025-10-31T06:14:52.301Z"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761890108503",
+          "preciseGeoTag": "31.69073438744525,-8.07068271096755",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "dispensedItems": [
+            {
+              "drugId": "6118010120817",
+              "quantity": 1,
+              "unit": "box"
+            },
+            {
+              "drugId": "6118000070702",
+              "quantity": 1,
+              "unit": "box"
+            }
+          ],
+          "dispensedTotals": {
+            "amountMAD": 167.1,
+            "coveredMAD": 116.97,
+            "patientMAD": 50.13
+          },
+          "paymentMethod": "cash"
+        },
+        "status": "dispensed"
+      }
+    ],
+    [
+      "0.0.7166088",
+      {
+        "prescription": {
+          "patientId": "L561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "d3760fd7-164a-40fc-99fe-bea87c64696b",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761890305558"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T05:58:30.795Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7166088",
+          "timestamp": "2025-10-31T05:58:29.228Z",
+          "validFrom": "2025-10-31T05:58:29.228Z",
+          "validUntil": "2025-12-30T05:58:29.228Z",
+          "geoTag": "31.690734391015514,-8.0706827172423",
+          "hashedPatientId": "bf9e9c3a066fa91c2f0746c6d73e282ae72feb8a2180dcc00381da356dea9ea2",
+          "nftSerial": "1761890305558",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 0,
+          "nonce": "86ebe682c2155e34",
+          "contentHash": "sha256:f0d7848ee031d525548694d310401e592351d255b010021d7cd53ca2f0bebe09",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:30450221008dcfa627b31018abd56b8f1feb7d1aed67f5ccaba48de983da178c5084b497b9022012bbf54e3076b11566e8e29c4e37d215e1d9580982ea2539b8eb423d28075d33"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761890305558",
+          "preciseGeoTag": "31.690734391015514,-8.0706827172423",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ],
+    [
+      "0.0.7166100",
+      {
+        "prescription": {
+          "patientId": "m561419",
+          "patientName": "Saad hassim",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "28",
+          "diagnosis": "Type 2 Diabetes - Non-insulin dependent",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "GLUCOPHAGE 850",
+              "code": "6118000080633",
+              "dosage": "850",
+              "unit": "mg",
+              "frequency": "2",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet morning and evening with meals"
+            },
+            {
+              "name": "GLEMA",
+              "code": "6118000041207",
+              "dosage": "2",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning before breakfast"
+            }
+          ],
+          "id": "544db146-3b14-4269-9a0c-bc02bd0ff843",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761890532335"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T06:02:15.969Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7166100",
+          "timestamp": "2025-10-31T06:02:15.176Z",
+          "validFrom": "2025-10-31T06:02:15.176Z",
+          "validUntil": "2025-12-30T06:02:15.176Z",
+          "geoTag": "31.690699286158026,-8.070700742533116",
+          "hashedPatientId": "caaf03f93cb7d34c4868fe944a6d286f96cd270d92f911c520269118e7f38526",
+          "nftSerial": "1761890532335",
+          "drugIds": [
+            "6118000080633",
+            "6118000041207"
+          ],
+          "instructionsList": [
+            "1 tablet morning and evening with meals",
+            "1 tablet in the morning before breakfast"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 0,
+          "nonce": "2fbaedf8c1e34bbf",
+          "contentHash": "sha256:3772c587384adfba6e6d895c91ac1b1dc2760b5465197351ed86c1d61b2d4c69",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100884098a787b6b27e5b407b519aff1ad5eac7d7ab5567afcff0db9c26860f16dd02205c108621f48156763b47596383908d9e996e4066d333b1b824d407237d825c38"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118000080633",
+            "6118000041207"
+          ],
+          "instructionsList": [
+            "1 tablet morning and evening with meals",
+            "1 tablet in the morning before breakfast"
+          ],
+          "nftSerial": "1761890532335",
+          "preciseGeoTag": "31.690699286158026,-8.070700742533116",
+          "medications": [
+            {
+              "name": "GLUCOPHAGE 850",
+              "code": "6118000080633",
+              "dosage": "850",
+              "unit": "mg",
+              "frequency": "2",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet morning and evening with meals"
+            },
+            {
+              "name": "GLEMA",
+              "code": "6118000041207",
+              "dosage": "2",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning before breakfast"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ],
+    [
+      "0.0.7166138",
+      {
+        "prescription": {
+          "patientId": "m561419",
+          "patientName": "saad atlas",
+          "patientEmail": "atlascaretech.management@gmail.com",
+          "patientPhone": "",
+          "contactMethod": "email",
+          "age": "29",
+          "diagnosis": "Essential Hypertension (HTA) - Stage II",
+          "maxDispenses": 12,
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ],
+          "id": "89284216-14d9-4508-a110-367cb7019a6f",
+          "nft": {
+            "tokenId": "0.0.mock",
+            "serial": "1761890795231"
+          },
+          "doctor": "Mohamed Rami",
+          "doctorSpecialty": "Specialist in Internal Medicine",
+          "doctorNationalId": "009811233",
+          "date": "2025-10-31T06:06:39.504Z",
+          "dispenseCount": 0
+        },
+        "payload": {
+          "version": "1",
+          "alg": "secp256k1+SHA-256",
+          "eventType": "issued",
+          "topicID": "0.0.7166138",
+          "timestamp": "2025-10-31T06:06:38.900Z",
+          "validFrom": "2025-10-31T06:06:38.900Z",
+          "validUntil": "2025-12-30T06:06:38.900Z",
+          "geoTag": "31.690682837919436,-8.070633431082117",
+          "hashedPatientId": "2506f6cd82591e320a0a752073a2ab7afaf1a23917b4764e41b0ba5887368c15",
+          "nftSerial": "1761890795231",
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "signerRole": "doctor",
+          "maxDispenses": 12,
+          "dispenseCount": 0,
+          "nonce": "a83b0dfb888152fc",
+          "contentHash": "sha256:7fd6b516916127424d46b54e314455d719477d69bfea959ce8d348064f1cbffc",
+          "keyId": "fp:c33c645cb8cfb33b",
+          "signature": "hex:3045022100dcf8316b3fa5a038e250010ade4ebc91d1bd6c9b28e064cd18c22c251ab22260022037ee4489c2791797fb5964b3e688531563aa8d3f6e3ce4c31cb3fbaae1545fd6"
+        },
+        "sensitiveData": {
+          "drugIds": [
+            "6118010120817",
+            "6118000070702"
+          ],
+          "instructionsList": [
+            "1 tablet in the morning",
+            "1 tablet in the evening"
+          ],
+          "nftSerial": "1761890795231",
+          "preciseGeoTag": "31.690682837919436,-8.070633431082117",
+          "medications": [
+            {
+              "name": "AMLODIPINE GT",
+              "code": "6118010120817",
+              "dosage": "5",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the morning"
+            },
+            {
+              "name": "PRILVAS",
+              "code": "6118000070702",
+              "dosage": "20",
+              "unit": "mg",
+              "frequency": "1",
+              "duration": "30",
+              "durationUnit": "days",
+              "instructions": "1 tablet in the evening"
+            }
+          ]
+        },
+        "status": "issued"
+      }
+    ]
+  ],
+  "timestamp": "2025-10-31T06:15:04.888Z",
+  "count": 46
+}

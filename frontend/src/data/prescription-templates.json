@@ -1,0 +1,210 @@
+[
+  {
+    "id": "hta-hypertension",
+    "name": "Hypertension (HTA)",
+    "nameAr": "ارتفاع ضغط الدم",
+    "nameFr": "Hypertension artérielle",
+    "category": "Chronic",
+    "diagnosis": "Essential Hypertension (HTA) - Stage II",
+    "maxDispenses": 12,
+    "medications": [
+      {
+        "name": "AMLODIPINE GT",
+        "code": "6118010120817",
+        "dosage": "5",
+        "unit": "mg",
+        "frequency": "1",
+        "duration": "30",
+        "durationUnit": "days",
+        "instructions": "1 tablet in the morning"
+      },
+      {
+        "name": "PRILVAS",
+        "code": "6118000070702",
+        "dosage": "20",
+        "unit": "mg",
+        "frequency": "1",
+        "duration": "30",
+        "durationUnit": "days",
+        "instructions": "1 tablet in the evening"
+      }
+    ]
+  },
+  {
+    "id": "diabetes-type2",
+    "name": "Type 2 Diabetes",
+    "nameAr": "السكري من النوع 2",
+    "nameFr": "Diabète de type 2",
+    "category": "Chronic",
+    "diagnosis": "Type 2 Diabetes - Non-insulin dependent",
+    "maxDispenses": 12,
+    "medications": [
+      {
+        "name": "GLUCOPHAGE 850",
+        "code": "6118000080633",
+        "dosage": "850",
+        "unit": "mg",
+        "frequency": "2",
+        "duration": "30",
+        "durationUnit": "days",
+        "instructions": "1 tablet morning and evening with meals"
+      },
+      {
+        "name": "GLEMA",
+        "code": "6118000041207",
+        "dosage": "2",
+        "unit": "mg",
+        "frequency": "1",
+        "duration": "30",
+        "durationUnit": "days",
+        "instructions": "1 tablet in the morning before breakfast"
+      }
+    ]
+  },
+  {
+    "id": "urti-infection",
+    "name": "Upper Respiratory Infection",
+    "nameAr": "التهاب الجهاز التنفسي العلوي",
+    "nameFr": "Infection respiratoire haute",
+    "category": "Acute",
+    "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+    "maxDispenses": 1,
+    "medications": [
+      {
+        "name": "AUGMENTIN",
+        "code": "6118000160212",
+        "dosage": "500",
+        "unit": "mg",
+        "frequency": "3",
+        "duration": "7",
+        "durationUnit": "days",
+        "instructions": "1 tablet 3 times daily with meals"
+      },
+      {
+        "name": "DOLIPRANE",
+        "code": "6118000040972",
+        "dosage": "1",
+        "unit": "g",
+        "frequency": "3",
+        "duration": "7",
+        "durationUnit": "days",
+        "instructions": "1 tablet 3 times daily for pain or fever"
+      }
+    ]
+  },
+  {
+    "id": "allergies-seasonal",
+    "name": "Seasonal Allergies",
+    "nameAr": "الحساسية الموسمية",
+    "nameFr": "Allergies saisonnières",
+    "category": "Seasonal",
+    "diagnosis": "Seasonal Allergic Rhinitis",
+    "maxDispenses": 3,
+    "medications": [
+      {
+        "name": "VANTEC",
+        "code": "6118010121593",
+        "dosage": "10",
+        "unit": "mg",
+        "frequency": "1",
+        "duration": "14",
+        "durationUnit": "days",
+        "instructions": "1 tablet in the evening"
+      }
+    ]
+  },
+  {
+    "id": "chronic-pain",
+    "name": "Chronic Pain / Arthritis",
+    "nameAr": "الألم المزمن / التهاب المفاصل",
+    "nameFr": "Douleur chronique / Arthrite",
+    "category": "Chronic",
+    "diagnosis": "Osteoarthritis - Chronic Pain",
+    "maxDispenses": 6,
+    "medications": [
+      {
+        "name": "DOLIPRANE",
+        "code": "6118000040972",
+        "dosage": "1",
+        "unit": "g",
+        "frequency": "3",
+        "duration": "30",
+        "durationUnit": "days",
+        "instructions": "1 tablet 3 times daily"
+      },
+      {
+        "name": "CATAFLAM",
+        "code": "6118000220053",
+        "dosage": "50",
+        "unit": "mg",
+        "frequency": "2",
+        "duration": "30",
+        "durationUnit": "days",
+        "instructions": "1 tablet morning and evening with meals"
+      }
+    ]
+  },
+  {
+    "id": "gerd-gastritis",
+    "name": "GERD / Gastritis",
+    "nameAr": "الارتجاع المعدي / التهاب المعدة",
+    "nameFr": "RGO / Gastrite",
+    "category": "Chronic",
+    "diagnosis": "Gastroesophageal Reflux Disease (GERD)",
+    "maxDispenses": 3,
+    "medications": [
+      {
+        "name": "OMEGEN",
+        "code": "6118000130017",
+        "dosage": "20",
+        "unit": "mg",
+        "frequency": "1",
+        "duration": "30",
+        "durationUnit": "days",
+        "instructions": "1 capsule in the morning on empty stomach, 30 minutes before breakfast"
+      }
+    ]
+  },
+  {
+    "id": "acute-pain",
+    "name": "Acute Pain / Fever",
+    "nameAr": "ألم حاد / حمى",
+    "nameFr": "Douleur aiguë / Fièvre",
+    "category": "Acute",
+    "diagnosis": "Flu Syndrome - Fever",
+    "maxDispenses": 1,
+    "medications": [
+      {
+        "name": "DOLIPRANE",
+        "code": "6118000040972",
+        "dosage": "1",
+        "unit": "g",
+        "frequency": "3",
+        "duration": "5",
+        "durationUnit": "days",
+        "instructions": "1 tablet every 8 hours as needed"
+      }
+    ]
+  },
+  {
+    "id": "antibiotic-simple",
+    "name": "Simple Bacterial Infection",
+    "nameAr": "عدوى بكتيرية بسيطة",
+    "nameFr": "Infection bactérienne simple",
+    "category": "Acute",
+    "diagnosis": "Uncomplicated Bacterial Infection",
+    "maxDispenses": 1,
+    "medications": [
+      {
+        "name": "PENAMOX",
+        "code": "6118000160731",
+        "dosage": "1",
+        "unit": "g",
+        "frequency": "3",
+        "duration": "7",
+        "durationUnit": "days",
+        "instructions": "1 tablet 3 times daily"
+      }
+    ]
+  }
+]

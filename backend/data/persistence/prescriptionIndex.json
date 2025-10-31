@@ -1,0 +1,2036 @@
+{
+  "entries": [
+    [
+      "119dc79b-4f80-45db-a561-d826f00f6175",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Hypertension arterielle essentielle (HTA) - Stade II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 comprimé le matin"
+          },
+          {
+            "name": "ENALAPRIL /HCTZ GT",
+            "code": "ENALAPRIL10",
+            "dosage": "10",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 comprimé le soir"
+          }
+        ],
+        "id": "119dc79b-4f80-45db-a561-d826f00f6175",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761695756392"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-28T23:55:59.584Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "d2565ea0-c51c-4b78-a0e8-65fdf311d006",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Hypertension arterielle essentielle (HTA) - Stade II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 comprimé le matin"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 comprimé le soir"
+          }
+        ],
+        "id": "d2565ea0-c51c-4b78-a0e8-65fdf311d006",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761705707240"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T02:41:51.077Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "f0a03cb1-01c8-4cb8-a661-82b0be507485",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "saadhassim96@gmail.com",
+        "patientPhone": "+212717287335",
+        "contactMethod": "sms",
+        "age": "28",
+        "diagnosis": "Hypertension arterielle essentielle (HTA) - Stade II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 comprimé le matin"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 comprimé le soir"
+          }
+        ],
+        "id": "f0a03cb1-01c8-4cb8-a661-82b0be507485",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761707694073"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T03:14:58.524Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "8e4a278b-9cb9-402c-bedc-a2295ceafc96",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Hypertension arterielle essentielle (HTA) - Stade II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 comprimé le matin"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 comprimé le soir"
+          }
+        ],
+        "id": "8e4a278b-9cb9-402c-bedc-a2295ceafc96",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761708455530"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T03:27:38.311Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "d8e5c02f-6a82-4f4b-a233-9005815c132c",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour pendant les repas"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+          }
+        ],
+        "id": "d8e5c02f-6a82-4f4b-a233-9005815c132c",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761709186106"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T03:39:50.460Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "01c2ee45-6789-4dc6-b6ad-d7a7448f563e",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour pendant les repas"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+          }
+        ],
+        "id": "01c2ee45-6789-4dc6-b6ad-d7a7448f563e",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761709229539"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T03:40:31.978Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "01d83b7d-1d27-4076-aa03-5e519b1ec95a",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour pendant les repas"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+          }
+        ],
+        "id": "01d83b7d-1d27-4076-aa03-5e519b1ec95a",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761709344332"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T03:42:28.372Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "7c7cadc0-a418-4e13-b259-ba240a678ab3",
+      {
+        "patientId": "K987649",
+        "patientName": "hassan tair",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour pendant les repas"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+          }
+        ],
+        "id": "7c7cadc0-a418-4e13-b259-ba240a678ab3",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761709732298"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T03:48:55.559Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "af4d9286-963e-4f5a-b038-2e26ea48d245",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Hypertension arterielle essentielle (HTA) - Stade II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 comprimé le matin"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 comprimé le soir"
+          }
+        ],
+        "id": "af4d9286-963e-4f5a-b038-2e26ea48d245",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761709860464"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T03:51:02.878Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "b97a75ac-6d6a-43b1-b059-8213fdb306f8",
+      {
+        "patientId": "L980807",
+        "patientName": "safaa ritchane",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour pendant les repas"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+          }
+        ],
+        "id": "b97a75ac-6d6a-43b1-b059-8213fdb306f8",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761710051963"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T03:54:14.969Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "9083fa64-f55a-4ce8-8e39-c7a27e20ebcd",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour pendant les repas"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+          }
+        ],
+        "id": "9083fa64-f55a-4ce8-8e39-c7a27e20ebcd",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761710214732"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T03:56:57.613Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "1b814e21-1ba6-4923-b36d-8f399c31961b",
+      {
+        "patientId": "P098776",
+        "patientName": "safaa ritchane",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Hypertension arterielle essentielle (HTA) - Stade II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 comprimé le matin"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 comprimé le soir"
+          }
+        ],
+        "id": "1b814e21-1ba6-4923-b36d-8f399c31961b",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761710426075"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T04:00:28.750Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "f248e489-99d7-4262-913c-dc2d181ac1ce",
+      {
+        "patientId": "m561419",
+        "patientName": "saad atlas",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Diabète de type 2 non insulinodépendant",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "GLUCOPHAGE 850",
+            "code": "6118000080633",
+            "dosage": "850",
+            "unit": "mg",
+            "frequency": "2",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 comprimé matin et soir pendant les repas"
+          },
+          {
+            "name": "GLEMA",
+            "code": "6118000041207",
+            "dosage": "2",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 comprimé le matin avant le petit-déjeuner"
+          }
+        ],
+        "id": "f248e489-99d7-4262-913c-dc2d181ac1ce",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761710635736"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T04:03:58.726Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "dcbeb53c-9972-4715-9b09-95bab7a561f7",
+      {
+        "patientId": "M561419",
+        "patientName": "safaa ritchane",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "29",
+        "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour pendant les repas"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+          }
+        ],
+        "id": "dcbeb53c-9972-4715-9b09-95bab7a561f7",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761710857516"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T04:07:40.541Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "c9c69dc3-194d-4288-8cdc-6e7000b08709",
+      {
+        "patientId": "m561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Infection respiratoire haute - Rhinopharyngite aigüe",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour pendant les repas"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 comprimé 3 fois par jour si douleur ou fièvre"
+          }
+        ],
+        "id": "c9c69dc3-194d-4288-8cdc-6e7000b08709",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761710959023"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T04:09:23.480Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "cfefd066-5989-4d27-b7eb-3034026acf8e",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "cfefd066-5989-4d27-b7eb-3034026acf8e",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761714513977"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T05:08:38.220Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "d8fe11ff-25bb-4979-89d7-727542899b56",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily with meals"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily for pain or fever"
+          }
+        ],
+        "id": "d8fe11ff-25bb-4979-89d7-727542899b56",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761748659216"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T14:37:42.398Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "8896f98d-756a-46bf-98b0-3ad6738d224f",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily with meals"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily for pain or fever"
+          }
+        ],
+        "id": "8896f98d-756a-46bf-98b0-3ad6738d224f",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761749565805"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T14:52:48.232Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "883a686e-33c2-4609-ab73-9d013080b8b7",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "883a686e-33c2-4609-ab73-9d013080b8b7",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761749851378"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T14:57:33.901Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "4b936286-24d6-4a2e-b389-27569166187e",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "4b936286-24d6-4a2e-b389-27569166187e",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761774732730"
+        },
+        "doctor": "Mohamed Rami",
+        "date": "2025-10-29T21:52:16.942Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "94227d83-5773-4045-bbcb-3770a25679bd",
+      {
+        "patientId": "m561419",
+        "patientName": "saad atlas",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Type 2 Diabetes - Non-insulin dependent",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "GLUCOPHAGE 850",
+            "code": "6118000080633",
+            "dosage": "850",
+            "unit": "mg",
+            "frequency": "2",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet morning and evening with meals"
+          },
+          {
+            "name": "GLEMA",
+            "code": "6118000041207",
+            "dosage": "2",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning before breakfast"
+          }
+        ],
+        "id": "94227d83-5773-4045-bbcb-3770a25679bd",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761777200296"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-29T22:33:23.864Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "55e5705e-4965-41ef-8572-d8964388a712",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily with meals"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily for pain or fever"
+          }
+        ],
+        "id": "55e5705e-4965-41ef-8572-d8964388a712",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761858287642"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-30T21:04:50.414Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "89402578-63a5-40b4-ad85-136a79be8bd6",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily with meals"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily for pain or fever"
+          }
+        ],
+        "id": "89402578-63a5-40b4-ad85-136a79be8bd6",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761858500211"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-30T21:08:22.544Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "658911fe-a147-4bfe-a552-1ac1bdd27684",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "658911fe-a147-4bfe-a552-1ac1bdd27684",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761862508251"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-30T22:15:10.982Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "4d2b81aa-137f-4eda-9036-fd4558ce6b51",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily with meals"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily for pain or fever"
+          }
+        ],
+        "id": "4d2b81aa-137f-4eda-9036-fd4558ce6b51",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761866560454"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-30T23:22:44.168Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "a190b081-17c7-4130-8901-dbc8b26b385b",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "a190b081-17c7-4130-8901-dbc8b26b385b",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761866801092"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-30T23:26:44.912Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "2a245b97-e797-40e2-b5b2-4b7f0e46bd06",
+      {
+        "patientId": "L561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily with meals"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily for pain or fever"
+          }
+        ],
+        "id": "2a245b97-e797-40e2-b5b2-4b7f0e46bd06",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761877455695"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T02:24:22.558Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "593d31cf-af14-4a30-b142-a92f7274e183",
+      {
+        "patientId": "L561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "29",
+        "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily with meals"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily for pain or fever"
+          }
+        ],
+        "id": "593d31cf-af14-4a30-b142-a92f7274e183",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761880644581"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T03:17:30.008Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "3b7a68e5-7a97-4afe-b0be-d57af4065e2c",
+      {
+        "patientId": "L561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily with meals"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily for pain or fever"
+          }
+        ],
+        "id": "3b7a68e5-7a97-4afe-b0be-d57af4065e2c",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761882772522"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T03:52:56.614Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "e28a50d8-5d0e-4b13-87ee-ab7dcb0c20a0",
+      {
+        "patientId": "L561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "29",
+        "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily with meals"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily for pain or fever"
+          }
+        ],
+        "id": "e28a50d8-5d0e-4b13-87ee-ab7dcb0c20a0",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761883136223"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T03:59:00.376Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "d1abe7c1-f8e4-41b9-8fdd-4b688b27021b",
+      {
+        "patientId": "L561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily with meals"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily for pain or fever"
+          }
+        ],
+        "id": "d1abe7c1-f8e4-41b9-8fdd-4b688b27021b",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761883413416"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T04:03:36.868Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "ed75806b-ad8d-44f7-9a03-b49da2ee0977",
+      {
+        "patientId": "L561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "29",
+        "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily with meals"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily for pain or fever"
+          }
+        ],
+        "id": "ed75806b-ad8d-44f7-9a03-b49da2ee0977",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761884129224"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T04:15:33.281Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "7fb28c69-5e2c-4d55-ae8c-785ff5f263bf",
+      {
+        "patientId": "L561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "29",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "7fb28c69-5e2c-4d55-ae8c-785ff5f263bf",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761884480509"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T04:21:23.929Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "af09b647-d07d-4e77-b8d5-d4401169fd4a",
+      {
+        "patientId": "m561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "29",
+        "diagnosis": "Upper Respiratory Infection - Acute Rhinopharyngitis",
+        "maxDispenses": 1,
+        "medications": [
+          {
+            "name": "AUGMENTIN",
+            "code": "6118000160212",
+            "dosage": "500",
+            "unit": "mg",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily with meals"
+          },
+          {
+            "name": "DOLIPRANE",
+            "code": "6118000040972",
+            "dosage": "1",
+            "unit": "g",
+            "frequency": "3",
+            "duration": "7",
+            "durationUnit": "days",
+            "instructions": "1 tablet 3 times daily for pain or fever"
+          }
+        ],
+        "id": "af09b647-d07d-4e77-b8d5-d4401169fd4a",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761884710854"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T04:25:14.381Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "ce79d8cc-76e3-4aae-9d25-3ef0cdaada69",
+      {
+        "patientId": "m561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "29",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "ce79d8cc-76e3-4aae-9d25-3ef0cdaada69",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761885086835"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T04:31:30.922Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "bc324aaa-1eec-4709-a2ea-c6becbe99c49",
+      {
+        "patientId": "L561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "29",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "bc324aaa-1eec-4709-a2ea-c6becbe99c49",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761886004599"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T04:46:47.670Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "d49d51ff-8d3c-4953-9357-c4eb78d6ade0",
+      {
+        "patientId": "m561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "d49d51ff-8d3c-4953-9357-c4eb78d6ade0",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761886548142"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T04:55:50.847Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "e4d2a926-5117-4a3c-97e4-eb19340775f8",
+      {
+        "patientId": "L561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "29",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "e4d2a926-5117-4a3c-97e4-eb19340775f8",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761886959152"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T05:02:44.260Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "fc90e4c1-0d28-48ac-bc29-7225077662c6",
+      {
+        "patientId": "L561419",
+        "patientName": "saad atlas",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "29",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "fc90e4c1-0d28-48ac-bc29-7225077662c6",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761887336340"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T05:08:59.562Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "822533aa-9215-46c9-b5b7-4e78d0b7b189",
+      {
+        "patientId": "m561419",
+        "patientName": "saad atlas",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "29",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "822533aa-9215-46c9-b5b7-4e78d0b7b189",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761888022374"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T05:20:26.783Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "389c0aee-a943-4ee4-88c9-23eb7a864a83",
+      {
+        "patientId": "L561419",
+        "patientName": "saad atlas",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "29",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "389c0aee-a943-4ee4-88c9-23eb7a864a83",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761888564109"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T05:29:27.150Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "2ae20b0e-2654-4276-9b1f-648d1941d921",
+      {
+        "patientId": "M561419",
+        "patientName": "safaa ritchane",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "29",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "2ae20b0e-2654-4276-9b1f-648d1941d921",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761889872479"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T05:51:17.746Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "d37233aa-9ed0-48f9-92b2-5c7f4ecd4fdf",
+      {
+        "patientId": "M561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "d37233aa-9ed0-48f9-92b2-5c7f4ecd4fdf",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761890108503"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T05:55:12.813Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "d3760fd7-164a-40fc-99fe-bea87c64696b",
+      {
+        "patientId": "L561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "d3760fd7-164a-40fc-99fe-bea87c64696b",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761890305558"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T05:58:30.795Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "544db146-3b14-4269-9a0c-bc02bd0ff843",
+      {
+        "patientId": "m561419",
+        "patientName": "Saad hassim",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "28",
+        "diagnosis": "Type 2 Diabetes - Non-insulin dependent",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "GLUCOPHAGE 850",
+            "code": "6118000080633",
+            "dosage": "850",
+            "unit": "mg",
+            "frequency": "2",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet morning and evening with meals"
+          },
+          {
+            "name": "GLEMA",
+            "code": "6118000041207",
+            "dosage": "2",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning before breakfast"
+          }
+        ],
+        "id": "544db146-3b14-4269-9a0c-bc02bd0ff843",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761890532335"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T06:02:15.969Z",
+        "dispenseCount": 0
+      }
+    ],
+    [
+      "89284216-14d9-4508-a110-367cb7019a6f",
+      {
+        "patientId": "m561419",
+        "patientName": "saad atlas",
+        "patientEmail": "atlascaretech.management@gmail.com",
+        "patientPhone": "",
+        "contactMethod": "email",
+        "age": "29",
+        "diagnosis": "Essential Hypertension (HTA) - Stage II",
+        "maxDispenses": 12,
+        "medications": [
+          {
+            "name": "AMLODIPINE GT",
+            "code": "6118010120817",
+            "dosage": "5",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the morning"
+          },
+          {
+            "name": "PRILVAS",
+            "code": "6118000070702",
+            "dosage": "20",
+            "unit": "mg",
+            "frequency": "1",
+            "duration": "30",
+            "durationUnit": "days",
+            "instructions": "1 tablet in the evening"
+          }
+        ],
+        "id": "89284216-14d9-4508-a110-367cb7019a6f",
+        "nft": {
+          "tokenId": "0.0.mock",
+          "serial": "1761890795231"
+        },
+        "doctor": "Mohamed Rami",
+        "doctorSpecialty": "Specialist in Internal Medicine",
+        "doctorNationalId": "009811233",
+        "date": "2025-10-31T06:06:39.504Z",
+        "dispenseCount": 0
+      }
+    ]
+  ],
+  "timestamp": "2025-10-31T06:15:04.944Z",
+  "count": 46
+}

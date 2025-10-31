@@ -1,0 +1,208 @@
+/* Custom styles for Hedera Healthcare */
+
+/* Base styles */
+body {
+  @apply bg-gray-50 text-gray-900 antialiased;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-gray-100;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 rounded-full;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-gray-400;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease-out forwards;
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-out forwards;
+}
+
+/* Custom transitions */
+.transition-all {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 200ms;
+}
+
+/* Custom form styles */
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="number"],
+input[type="date"],
+select,
+textarea {
+  @apply w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 transition-all duration-200;
+}
+
+/* Button styles */
+.btn {
+  @apply inline-flex items-center justify-center px-4 py-2 border border-transparent text-sm font-medium rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 transition-all duration-200;
+}
+
+.btn-primary {
+  @apply bg-indigo-600 text-white hover:bg-indigo-700 focus:ring-indigo-500;
+}
+
+.btn-secondary {
+  @apply bg-white border-gray-300 text-gray-700 hover:bg-gray-50 focus:ring-indigo-500;
+}
+
+.btn-danger {
+  @apply bg-red-600 text-white hover:bg-red-700 focus:ring-red-500;
+}
+
+/* Card styles */
+.card {
+  @apply bg-white rounded-xl shadow-sm overflow-hidden border border-gray-100;
+}
+
+.card-header {
+  @apply px-6 py-4 border-b border-gray-100;
+}
+
+.card-body {
+  @apply p-6;
+}
+
+.card-footer {
+  @apply px-6 py-4 border-t border-gray-100 bg-gray-50;
+}
+
+/* Alert styles */
+.alert {
+  @apply p-4 rounded-lg border;
+}
+
+.alert-success {
+  @apply bg-green-50 border-green-200 text-green-800;
+}
+
+.alert-warning {
+  @apply bg-yellow-50 border-yellow-200 text-yellow-800;
+}
+
+.alert-error {
+  @apply bg-red-50 border-red-200 text-red-800;
+}
+
+.alert-info {
+  @apply bg-blue-50 border-blue-200 text-blue-800;
+}
+
+/* Custom utilities */
+.ring-indigo-200 {
+  --tw-ring-color: rgba(199, 210, 254, 0.5);
+}
+
+/* Custom animations */
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.animate-pulse-slow {
+  animation: pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes slide-in {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.animate-slide-in {
+  animation: slide-in 0.3s ease-out;
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-shimmer {
+  animation: shimmer 2s infinite linear;
+}
+
+/* Custom scrollbar for Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #9ca3af #f3f4f6;
+}
+
+/* Enhanced background and headers */
+body {
+  background: radial-gradient(1000px 500px at 10% -10%, rgba(16,185,129,0.08), transparent 60%),
+              radial-gradient(800px 400px at 110% 0%, rgba(14,165,233,0.08), transparent 50%),
+              linear-gradient(180deg, #f8fafc 0%, #f1f5f9 100%);
+}
+
+.fancy-header {
+  background-image: linear-gradient(90deg, rgba(16,185,129,0.15), rgba(45,212,191,0.15)),
+                    radial-gradient(600px 80px at 20% 0%, rgba(16,185,129,0.12), transparent 60%),
+                    radial-gradient(600px 80px at 80% 0%, rgba(59,130,246,0.12), transparent 60%);
+}
+
+/* Doctor theme: tropical emerald + teal + peach accents */
+.doctor-theme {
+  /* Single seamless gradient across header and body */
+  background: linear-gradient(90deg, #d1fae5 0%, #a7f3d0 35%, #99f6e4 70%, #fde68a 100%);
+}
+.doctor-theme .header-surface {
+  backdrop-filter: saturate(140%) blur(6px);
+  background: inherit;
+  border-bottom: none;
+}
+.doctor-title {
+  background: linear-gradient(90deg, #065f46, #0f766e);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Pharmacist theme: cool indigo + sky + lavender accents */
+.pharma-theme {
+  /* Single seamless gradient across header and body matching header */
+  background: linear-gradient(90deg, #c7d2fe 0%, #bfdbfe 35%, #bae6fd 100%);
+}
+.pharma-theme .header-surface {
+  backdrop-filter: saturate(140%) blur(6px);
+  background: inherit;
+  border-bottom: none;
+}
+.pharma-title {
+  background: linear-gradient(90deg, #1f2937, #4338ca);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
