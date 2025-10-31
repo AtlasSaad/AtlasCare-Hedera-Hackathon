@@ -32,7 +32,7 @@
 **Submission Links:**
 - 📊 **Pitch Deck:** [View Presentation](https://drive.google.com/file/d/1mikt8zzKWkUFWmjvDq16Jj3YPhaiwKdx/view?usp=sharing)
 - 🎓 **Hedera Certification (Founder):(https://certs.hashgraphdev.com/d82d268b-7995-4141-a447-06b80db4c620.pdf)
-- 🎓 **Hedera Certification (Co-Founder):(https://certs.hashgraphdev.com/d0018e3c-d7ab-4660-8f78-3cf7dbccac76.pdf
+- 🎓 **Hedera Certification (Co-Founder):(https://certs.hashgraphdev.com/d0018e3c-d7ab-4660-8f78-3cf7dbccac76.pdf)
 )
 - 🎬 **Video Demo:** [Watch on YouTube](https://youtu.be/17FGRoCFmRQ)
 
@@ -795,10 +795,12 @@ atlascare/
 
 | | **Team Lead** | **Co-Founder & Developer** |
 |---|---|---|
-| **Name** | `SAAD HASSIM | ANAS ISSIKI |
+| **Name** | SAAD HASSIM | ANAS ISSIKI |
 | **Role** | FOUNDER/CEO | COFOUNDER/CTO |
-| **Focus** | Strategy, Business, PM |Software Dev, JAVA, Kubernetes, Hedera|
-| **LinkedIn** | https://www.linkedin.com/in/saad-h-a1572914a/ | 
+| **Focus** | Strategy, Business, PM | Software Dev, JAVA, Kubernetes, Hedera |
+| **LinkedIn** | [Saad Hassim](https://www.linkedin.com/in/saad-h-a1572914a/) | [Anas Issiki](https://www.linkedin.com/in/anasissiki/) |
+| **GitHub** | [@AtlasSaad](https://github.com/AtlasSaad) | [@AnasIssiki](https://github.com/AnasIssiki) |
+| **Email** | saad@atlascare.ma | anas@atlascare.ma | 
 
 
 
