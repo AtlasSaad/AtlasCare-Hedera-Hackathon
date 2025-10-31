@@ -48,11 +48,12 @@
 
 ### Hedera Testnet Credentials
 
-**For judges:** Hedera testnet credentials are provided in the **DoraHacks submission notes** (not committed to repo for security).
+**For judges:** Hedera testnet credentials are provided in the **DoraHacks submission notes** (not committed to repo for security) setup your env.
 
-Required credentials:
-- `HEDERA_ACCOUNT_ID` - Testnet account (0.0.xxxxx format)
-- `HEDERA_PRIVATE_KEY` - DER-encoded private key
+# Hedera Hashgraph Configuration (Required)
+HEDERA_ACCOUNT_ID=0.0.YOUR_ACCOUNT_ID
+HEDERA_PRIVATE_KEY=YOUR_PRIVATE_KEY_HERE
+HEDERA_NETWORK=testnet
 
 # JWT Authentication (Required)
 JWT_SECRET=your-jwt-secret-min-32-characters-long
@@ -68,6 +69,27 @@ SMTP_SECURE=false
 SMTP_USER=your-email@gmail.com
 SMTP_PASS=your-app-password
 MAIL_FROM=noreply@atlascare.ma
+
+# Infobip SMS/WhatsApp Configuration (Optional)
+INFOBIP_API_KEY=your-infobip-api-key
+INFOBIP_BASE_URL=https://api.infobip.com
+INFOBIP_SMS_FROM=AtlasCare
+INFOBIP_WHATSAPP_FROM=your-whatsapp-number
+
+# Redis Configuration (Optional - for caching)
+REDIS_HOST=localhost
+REDIS_PORT=6379
+REDIS_PASSWORD=
+
+# Mirror Node Configuration (Optional)
+HEDERA_MIRROR_BASE=https://testnet.mirrornode.hedera.com/api/v1
+
+# OTP Configuration (Optional)
+OTP_TTL_SECONDS=300
+
+# Server Configuration
+PORT=3001
+NODE_ENV=development
 
 **Verify live transactions:** [HashScan Account 0.0.6807699](https://hashscan.io/testnet/account/0.0.6807699)
 
@@ -184,16 +206,15 @@ We execute the following Hedera transactions in our prescription lifecycle:
    └─> TopicCreateTransaction (0.0.7158736) - $0.01
    └─> TopicMessageSubmitTransaction (ISSUED event) - $0.0001
 
-2. Pharmacist verifies prescription  
-   └─> TopicMessageSubmitTransaction (VERIFIED event) - $0.0001
+
    
-3. Payment processed
+2. Pharmacist verifies & processes payment
    └─> TopicMessageSubmitTransaction (PAID event) - $0.0001
    
-4. Medication dispensed
+3. Medication dispensed
    └─> TopicMessageSubmitTransaction (DISPENSED event) - $0.0001
 
-Total: $0.0104 per prescription lifecycle
+Total: $0.0103 per prescription lifecycle
 ```
 
 **Verify our transactions:** [HashScan Account 0.0.6807699](https://hashscan.io/testnet/account/0.0.6807699) - 100+ transactions live on testnet
@@ -714,14 +735,6 @@ atlascare/
 ---
 
 
-
-### Demo Highlights (3-5 minutes)
-
-1. **Problem & Solution** (60s) - Prescription fraud in Morocco → Hedera HCS solution
-2. **Hedera Integration** (90s) - Live topic creation, compression demo, HashScan verification
-3. **Complete Workflow** (90s) - Doctor creates → Pharmacist verifies → FSE generated
-4. **Technical Highlights** (30s) - Client-side crypto, 72% compression, offline mode
-5. **Impact** (30s) - 100+ live transactions, 90% fraud reduction potential
 
 ### Key Points to Showcase
 
