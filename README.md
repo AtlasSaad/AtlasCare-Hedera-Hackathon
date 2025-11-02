@@ -799,7 +799,7 @@ atlascare/
 | **Focus** | Strategy, Business, PM | Software Dev, JAVA, Kubernetes, Hedera |
 | **LinkedIn** | [Saad Hassim](https://www.linkedin.com/in/saad-h-a1572914a/) | [Anas Issiki](https://www.linkedin.com/in/anasissiki/) |
 | **GitHub** | [@AtlasSaad](https://github.com/AtlasSaad) | [@AnasIssiki](https://github.com/AnasIssiki) |
-| **Email** | saad@atlascare.ma | anas@atlascare.ma | 
+
 
 
 
@@ -814,7 +814,7 @@ AtlasCare was born from witnessing firsthand the challenges faced by Morocco's h
 
 ## 📞 Contact
 
-**Team:** AtlasCare Development Team  
+**Team:** AtlasCare 
 **Email:** atlascaretech.management@gmail.com  
 **Hackathon:** Hedera Africa Hackathon 2025  
 **Category:** DLT for Operations
@@ -830,12 +830,12 @@ MIT License - See [LICENSE](LICENSE) for details
 ---
 
 ## 🙏 Acknowledgments
-
+-**Orange Fab Morocco** - For introducing Hedera Africa Hackathon 
 - **Hedera Hashgraph** - For the powerful, sustainable DLT infrastructure
 - **Hedera Africa Hackathon** - For the opportunity to build for impact
 - **Morocco's healthcare system** - For inspiring this solution
-- **CNSS** - For the drug database and FSE format specifications
 - **Open-source community** - For the amazing tools and libraries
+  
 
 ---
 
